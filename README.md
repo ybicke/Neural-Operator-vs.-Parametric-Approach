@@ -14,6 +14,16 @@ the data for training could simply be generated for different time intervals. Th
 
 ![image](https://github.com/ybicke/Neural-Operator-vs.-Parametric-Approach/assets/80389002/577fdedb-2789-4f98-bb89-8da8b127d13c)
 
+![image](https://github.com/ybicke/Neural-Operator-vs.-Parametric-Approach/assets/80389002/42b697e4-c2b7-45b8-ac25-272c72fceb7f)
+
+![image](https://github.com/ybicke/Neural-Operator-vs.-Parametric-Approach/assets/80389002/374d4c43-4b7d-44f2-99b2-505f68a69a62)
+
+![image](https://github.com/ybicke/Neural-Operator-vs.-Parametric-Approach/assets/80389002/c66fce4c-d656-4bcd-9d28-12dc344aa3df)
+
+
+
+
+
 
 
 
